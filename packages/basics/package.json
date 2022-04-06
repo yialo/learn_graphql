@@ -1,0 +1,7 @@
+{
+  "name": "graphql-basics",
+  "private": true,
+  "dependencies": {
+    "graphql": "16.3.0"
+  }
+}
